@@ -20,7 +20,7 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
     
     Clonez ce dossier Repository sur un répertoire local, ensuite, vous pouvez lancer Go et l'utiliser via le terminal de commande ou sur un outil GUI tel que VS Code ou GoLand. 
     
-    Pour lancer le fichier 02_02_p3.go vous utiliserez la commande go run 02_02_p3.go
+    Pour lancer le fichier 02_02_p3.go (via le terminal de commande) vous utiliserez la commande go run 02_02_p3.go
 
 ### Instructeur
 
