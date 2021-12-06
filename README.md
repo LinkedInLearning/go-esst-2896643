@@ -16,11 +16,11 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 
     Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
     
-    [Liste des logiciels/dépendances utiles à la formation] 
+    go1.17.3
     
-    Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
+    Clonez ce dossier Repository sur un répertoire local, ensuite, vous pouvez lancer Go et l'utiliser via le terminal de commande ou sur un outil GUI tel que VS Code ou GoLand. 
     
-    [Instructions spécifiques au cours] 
+    Pour lancer le fichier 02_02_p3.go vous utiliserez la commande go run 02_02_p3.go
 
 ### Instructeur
 
