@@ -15,10 +15,9 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 ## Installation
 
     Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-    
     go1.17.3
     
-    Clonez ce dossier Repository sur un répertoire local, ensuite, vous pouvez lancer Go et l'utiliser via le terminal de commande ou sur un outil GUI tel que VS Code ou GoLand. 
+    Clonez ce dossier repository sur un répertoire local, puis lancez Go et utilisez-le via le terminal de commande ou sur un outil GUI tel que VS Code ou GoLand. 
     
     Pour lancer le fichier 02_02_p3.go (via le terminal de commande) vous utiliserez la commande go run 02_02_p3.go
 
