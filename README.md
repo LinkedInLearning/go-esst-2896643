@@ -1,6 +1,6 @@
 # L'essentiel de Go
 
-Ce dossier Repository est lié au cours [L'essentiel de Go][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](www.linkedin.com/learning).
+Ce dossier Repository est lié au cours [L'essentiel de Go][lil-course-url]. Le cours entier est disponible sur [LinkedIn Learning](https://www.linkedin.com/learning).
 
 ![Nom final de la formation][lil-thumbnail-url] 
 
@@ -23,7 +23,7 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 
 ### Instructeur
 
-Retrouvez [Omar Souissi](https://www.linkedin.com/learning/instructors/omar-souissi?u=104) sur LinkedIn Learning.
+Retrouvez [Omar Souissi](https://www.linkedin.com/learning/instructors/omar-souissi) sur LinkedIn Learning.
 
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-go-9634709
 [lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1645797600&v=beta&t=SULokT67Fks4naX_XpLRlbwrOn0H5mWdS9zghe_6Dq8
