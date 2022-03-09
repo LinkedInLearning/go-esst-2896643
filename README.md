@@ -29,5 +29,5 @@ Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-go-9634709/bienvenue-dans-l-essentiel-de-go?autoAdvance=true&autoSkip=false&autoplay=true&resume=true&
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1645887600&v=beta&t=HrBL3LRFsq2wMXEoUpo0GtAeCMP3ZAQinvn74hAY504
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1646956800&v=beta&t=1SdYKaUmg8Xd8OhR9EgM7pmdRZVB6TuON1WvwTbslWs
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
