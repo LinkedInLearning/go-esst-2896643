@@ -27,6 +27,6 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: [https://www.linkedin.com/learning/developper-une-solution-big-data-avec-azure](https://www.linkedin.com/learning/l-essentiel-de-go-9634709/bienvenue-dans-l-essentiel-de-go?autoplay=true&)](https://www.linkedin.com/learning/l-essentiel-de-go-9634709/bienvenue-dans-l-essentiel-de-go?autoplay=true&u=104)](https://www.linkedin.com/learning/l-essentiel-de-go-9634709/bienvenue-dans-l-essentiel-de-go?autoplay=true&u=104)
+[lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-go-9634709
 [lil-thumbnail-url]: [[https://media-exp1.licdn.com/dms/image/C4E0DAQHi3GK5grh_Yw/learning-public-crop_675_1200/0/1645186317382?e=1646125200&v=beta&t=eQEDB1hVLhdlWq-YXdmvLbDagEOXrHGc4G1u-HDC9eA](https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1659618000&v=beta&t=j5VdOp3EyCABYQNPu7CAYxLNkEiCR7FAwVFitUfcX0g)](https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1659618000&v=beta&t=j5VdOp3EyCABYQNPu7CAYxLNkEiCR7FAwVFitUfcX0g)
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
