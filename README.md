@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de Go`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![image]([https://user-images.githubusercontent.com/61017085/178546429-229e744c-8586-4538-b8b7-e237adb0136b.png])
+![image](https://user-images.githubusercontent.com/61017085/178546429-229e744c-8586-4538-b8b7-e237adb0136b.png)
 
 Le langage de programmation Go, qui a été développé par Google, est l'un des plus en vue grâce à sa rapidité et à sa simplicité. Dans cette formation d'Omar Souissi, vous découvrirez l'environnement de travail, la syntaxe utilisée, les types de données, aussi bien basiques que composites, et les différentes fonctions du langage. Vous verrez quel est l'intérêt des interfaces et vous apprendrez à les mettre en œuvre. Puis, le cours se conclura sur les phases de test, que vous serez en mesure de créer aisément.
 
