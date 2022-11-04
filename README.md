@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de Go`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![image](https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1659618000&v=beta&t=j5VdOp3EyCABYQNPu7CAYxLNkEiCR7FAwVFitUfcX0g)
+![Nom final de la formation][lil-thumbnail-url]
 
 Le langage de programmation Go, qui a été développé par Google, est l'un des plus en vue grâce à sa rapidité et à sa simplicité. Dans cette formation d'Omar Souissi, vous découvrirez l'environnement de travail, la syntaxe utilisée, les types de données, aussi bien basiques que composites, et les différentes fonctions du langage. Vous verrez quel est l'intérêt des interfaces et vous apprendrez à les mettre en œuvre. Puis, le cours se conclura sur les phases de test, que vous serez en mesure de créer aisément.
 
@@ -28,5 +28,5 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-go-9634709
-[lil-thumbnail-url]: [[https://media-exp1.licdn.com/dms/image/C4E0DAQHi3GK5grh_Yw/learning-public-crop_675_1200/0/1645186317382?e=1646125200&v=beta&t=eQEDB1hVLhdlWq-YXdmvLbDagEOXrHGc4G1u-HDC9eA](https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1659618000&v=beta&t=j5VdOp3EyCABYQNPu7CAYxLNkEiCR7FAwVFitUfcX0g)](https://media-exp1.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1659618000&v=beta&t=j5VdOp3EyCABYQNPu7CAYxLNkEiCR7FAwVFitUfcX0g)
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1668157200&v=beta&t=rFIBgu35OEsXh7uR-us_MRz5a4IR2dxI_UOpOb-k6PM
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
