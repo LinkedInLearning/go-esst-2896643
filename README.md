@@ -28,5 +28,5 @@ Par ailleurs, pour deux vidéos du dernier chapitre l'exécution est réalisée 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-go-9634709
-[lil-thumbnail-url]: https://media.licdn.com/dms/image/C4E0DAQFpJWZVfMAyCw/learning-public-crop_675_1200/0/1640171623696?e=1668157200&v=beta&t=rFIBgu35OEsXh7uR-us_MRz5a4IR2dxI_UOpOb-k6PM
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2896643/2896643-1640171618132-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
